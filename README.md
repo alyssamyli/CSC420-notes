@@ -1,2 +1,3 @@
 # CSC420-notes
 this is a lecture note for CSC420
+My life is wonderful and chill until I want to challenge myself and take CSC420...
